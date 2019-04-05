@@ -8,7 +8,7 @@ This repository can be help if you're learning about CSS GRID.
 
 Please follow me
 
-I thong you can find something awesome in my work.
+I think you can find something awesome in my work.
 
 **Twitter** [@andres_jejen](https://twitter.com/andres_jejen)
 
