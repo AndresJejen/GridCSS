@@ -1,6 +1,6 @@
 # GridCSS
 
-This repository is based on [Grid CSS Tutorial](https://www.youtube.com/watch?v=gH3sBOj6CGA) whit some changes.
+This repository is based on [Grid CSS Tutorial](https://www.youtube.com/watch?v=gH3sBOj6CGA) with some changes.
 
 This repository can be help if you're learning about CSS GRID.
 
